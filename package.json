@@ -1,0 +1,27 @@
+{
+  "name": "docx-document-generator",
+  "version": "1.0.0",
+  "description": "A Node.js script to generate professional DOCX documents with images, tables, headers, footers, and formatted text using the docx library.",
+  "main": "new.js",
+  "type": "module",
+  "scripts": {
+    "start": "bun new.js",
+    "generate": "bun new.js"
+  },
+  "keywords": [
+    "docx",
+    "document-generation",
+    "word-document",
+    "nodejs"
+  ],
+  "author": "Syed Muhammad Abdullah",
+  "license": "MIT",
+  "dependencies": {
+    "docx": "^8.12.0"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=18.0.0",
+    "bun": ">=1.0.0"
+  }
+}
