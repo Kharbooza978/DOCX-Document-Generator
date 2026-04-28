@@ -97,9 +97,6 @@ Images are loaded from the `tmp/` folder relative to the script location:
 
 MIT License - See [LICENSE](./LICENSE) file for details.
 
-## Author
-
-Syed Muhammad Abdullah (BSCS22054)
 
 ---
 
